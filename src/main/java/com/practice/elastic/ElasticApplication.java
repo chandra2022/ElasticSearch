@@ -8,7 +8,8 @@ public class ElasticApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ElasticApplication.class, args);
-		System.out.println("changed");
+		System.out.println("changed2");
+
 	}
 
 }
